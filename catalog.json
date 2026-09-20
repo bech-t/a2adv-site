@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "adventures": [
+    {
+      "id": "combat_demo",
+      "title": "Démo Combat",
+      "author": "a2adv",
+      "version": "",
+      "lang": "fr",
+      "description": "Une mini-aventure pour découvrir le combat : une arme à ramasser, un adversaire, et la fuite pour dernier recours.",
+      "base": "adventures/combat_demo/1397614089",
+      "story": "adventures/combat_demo/1397614089/story.json",
+      "cover": null,
+      "hash": "1397614089",
+      "sections": 4,
+      "images": 0,
+      "files": [
+        "adventures/combat_demo/1397614089/story.json"
+      ],
+      "bytes": 2813
+    },
+    {
+      "id": "demo_simple",
+      "title": "La Caverne aux Échos",
+      "author": "Thomas",
+      "version": "",
+      "lang": "fr",
+      "description": "Une courte exploration de caverne : une torche, quelques choix, une fin heureuse ou fatale.",
+      "base": "adventures/demo_simple/b4f220a9c4",
+      "story": "adventures/demo_simple/b4f220a9c4/story.json",
+      "cover": null,
+      "hash": "b4f220a9c4",
+      "sections": 7,
+      "images": 0,
+      "files": [
+        "adventures/demo_simple/b4f220a9c4/story.json"
+      ],
+      "bytes": 4175
+    },
+    {
+      "id": "chateau_hante",
+      "title": "Le Château Hanté",
+      "author": "a2adv",
+      "version": "",
+      "lang": "fr",
+      "description": "Un vieux château, une poupée de porcelaine et l'âme d'une petite fille. Explorez dix-huit salles, trouvez les objets et menez le rituel à son terme.",
+      "base": "adventures/chateau_hante/843f29b900",
+      "story": "adventures/chateau_hante/843f29b900/story.json",
+      "cover": "adventures/chateau_hante/843f29b900/cover.webp",
+      "hash": "843f29b900",
+      "sections": 26,
+      "images": 0,
+      "files": [
+        "adventures/chateau_hante/843f29b900/cover.webp",
+        "adventures/chateau_hante/843f29b900/story.json"
+      ],
+      "bytes": 26714
+    },
+    {
+      "id": "orbe_de_sortis",
+      "title": "L'Orbe de Sortis",
+      "author": "a2adv",
+      "version": "",
+      "lang": "fr",
+      "description": "Rapportez l'Orbe de Sortis du donjon de l'archimage Malgarde : une aventure de fantasy à la manière des livres dont vous êtes le héros.",
+      "base": "adventures/orbe_de_sortis/ecd6822dd1",
+      "story": "adventures/orbe_de_sortis/ecd6822dd1/story.json",
+      "cover": null,
+      "hash": "ecd6822dd1",
+      "sections": 85,
+      "images": 0,
+      "files": [
+        "adventures/orbe_de_sortis/ecd6822dd1/story.json"
+      ],
+      "bytes": 48681
+    },
+    {
+      "id": "tour_du_monde",
+      "title": "Le Tour du Monde en 80 Jours",
+      "author": "Thomas B.",
+      "version": "0.1",
+      "lang": "fr",
+      "description": "D'après Jules Verne : vous êtes Passepartout, et le temps presse. Premier chapitre, de Londres à Suez.",
+      "base": "adventures/tour_du_monde/34d417d734",
+      "story": "adventures/tour_du_monde/34d417d734/story.json",
+      "cover": null,
+      "hash": "34d417d734",
+      "sections": 286,
+      "images": 0,
+      "files": [
+        "adventures/tour_du_monde/34d417d734/story.json"
+      ],
+      "bytes": 184297
+    },
+    {
+      "id": "cite_perdue",
+      "title": "La Cité perdue",
+      "author": "Thomas B.",
+      "version": "1.0",
+      "lang": "fr",
+      "description": "Gabriel Valmont hérite du journal inachevé d'un explorateur disparu. Une chasse au trésor qui devient une enquête, puis un choix : que faire de ce qu'on a compris ?",
+      "base": "adventures/cite_perdue/d0f33a503a",
+      "story": "adventures/cite_perdue/d0f33a503a/story.json",
+      "cover": null,
+      "hash": "d0f33a503a",
+      "sections": 464,
+      "images": 0,
+      "files": [
+        "adventures/cite_perdue/d0f33a503a/story.json"
+      ],
+      "bytes": 377619
+    }
+  ]
+}
